@@ -1,0 +1,5 @@
+package goroutine
+
+func Run() {
+
+}

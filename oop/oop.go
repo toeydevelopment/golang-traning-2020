@@ -1,0 +1,3 @@
+package oop
+
+func Run() {}
