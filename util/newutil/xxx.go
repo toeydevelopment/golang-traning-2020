@@ -1,0 +1,5 @@
+package newutil
+
+func NewUtil() {
+
+}
